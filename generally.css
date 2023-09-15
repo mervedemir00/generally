@@ -1,7 +1,6 @@
 
-.backMonitor{
+body{
     background-color: lightgray;
-    max-width: 100%;
 }
 .card{
     border-radius: 25px;
