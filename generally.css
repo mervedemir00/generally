@@ -1,0 +1,32 @@
+
+.backMonitor{
+    background-color: lightgray;
+    max-width: 100%;
+}
+.card{
+    border-radius: 25px;
+    background-color: White;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    height: 620px;
+    width: 385px;
+    margin:auto;
+}
+
+   
+
+.imgBx img{
+    width: 350px;
+    padding:15px;
+     border-radius: 30px;
+}
+.card #smallText{
+   color:hsl(220, 15%, 55%);
+   text-align: center;
+   margin-top: 5px;
+}
+.card #bigText{
+    color:  hsl(218, 44%, 22%);
+    font-weight: 2000;
+}
